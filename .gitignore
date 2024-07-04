@@ -1,0 +1,6 @@
+bin/
+venv/
+dev_config.json
+*.zip
+.DS_Store
+pyvenv.cfg
